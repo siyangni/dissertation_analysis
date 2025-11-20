@@ -1,0 +1,60 @@
+# Data files - do not track any data files
+*.dta
+*.dat
+*.csv
+*.xlsx
+*.xls
+*.sav
+*.sas7bdat
+*.rdata
+*.rda
+*.feather
+*.parquet
+*.h5
+*.hdf5
+
+# Mplus output files
+*.out
+*.gh5
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# R temporary files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# Stata temporary files
+*.log
+*.smcl
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
